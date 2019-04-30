@@ -1,5 +1,17 @@
 = Rails エンジン入門 on RAILS GUIDES
 
+[cols="1,1", options="autowidth"]
+|===
+|Ruby|2.6.3
+|Rails|5.2.3
+|===
+
 image:https://img.shields.io/badge/license-MIT-blue.svg[MIT, link=LICENSE]
 
 link:https://railsguides.jp/engines.html[Railsエンジン入門 on RAILS GUIDES]
+
+== 実行方法
+
+----
+$ make up
+----
