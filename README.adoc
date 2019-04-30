@@ -1,0 +1,5 @@
+= Rails エンジン入門 on RAILS GUIDES
+
+image:https://img.shields.io/badge/license-MIT-blue.svg[MIT, link=LICENSE]
+
+link:https://railsguides.jp/engines.html[Railsエンジン入門 on RAILS GUIDES]
