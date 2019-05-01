@@ -7,11 +7,11 @@ require "blorgh/version"
 Gem::Specification.new do |spec|
   spec.name        = "blorgh"
   spec.version     = Blorgh::VERSION
-  spec.authors     = ["TODO: Write your name"]
-  spec.email       = ["TODO: Write your email address"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Blorgh."
-  spec.description = "TODO: Description of Blorgh."
+  spec.authors     = ["sunakan"]
+  spec.email       = ["sunakan03@gmail"]
+  spec.homepage    = "https://github.com/sunakan/rails-engine-on-rails-guides"
+  spec.summary     = "練習"
+  spec.description = "練習"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -27,5 +27,6 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "rails", "~> 5.2.3"
 
-  spec.add_development_dependency "sqlite3"
+  spec.add_dependency "pg", "~> 1.1.4"
+  #spec.add_development_dependency "sqlite3"
 end
