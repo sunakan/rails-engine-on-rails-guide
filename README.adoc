@@ -10,6 +10,16 @@ image:https://img.shields.io/badge/license-MIT-blue.svg[MIT, link=LICENSE]
 
 link:https://railsguides.jp/engines.html[Railsエンジン入門 on RAILS GUIDES]
 
+== 4までしかやっていない
+
+* 5のテスト部分がすごい端折られている(自分でやってみるしかなさそう)
+
+
+* 6はMyAppとかBlorghというroot部分がプラグイン部分なのかが分かりづらい(Rails 6ガイドでなくすなどもあるので、やらなくてもいいと判断)
+** MyApp/app/decorators/models/blorgh/article_decorator.rb
+** Blorgh/app/models/article.rb
+
+
 == blorghでbundle install
 
 ----
