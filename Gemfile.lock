@@ -1,3 +1,10 @@
+PATH
+  remote: blorgh
+  specs:
+    blorgh (0.1.0)
+      pg (~> 1.1.4)
+      rails (~> 5.2.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -194,6 +201,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  blorgh!
   bootsnap (>= 1.1.0)
   byebug
   capybara (>= 2.15)
